@@ -1,5 +1,5 @@
 % Parameters
-num_agents = 5; % Number of agents (LEO satellites)
+num_agents = 60; % Number of agents (LEO satellites)
 episodes = 1000; % Number of training episodes
 max_steps = 50; % Steps per episode
 state_size = 11; % State space size (queue lengths from 0 to 10)
