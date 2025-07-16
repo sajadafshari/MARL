@@ -1,5 +1,6 @@
 clear; clc; close all;
 
+
 % Parameters
 num_satellites = 60;             % Number of satellites
 num_gts = 20;                    % Number of ground terminals (GTs)
